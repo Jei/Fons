@@ -1,0 +1,22 @@
+{
+  "name": "icecast-fons",
+  "version": "1.0.0",
+  "description": "Stream music to an Icecast server through Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icecast",
+    "stream",
+    "mount",
+    "http",
+    "audio"
+  ],
+  "author": "Andrea Jonus",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "uuid": "^3.2.1"
+  }
+}
